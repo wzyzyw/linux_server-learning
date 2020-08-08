@@ -27,4 +27,8 @@ https://blog.csdn.net/weixin_42048463/article/details/94716046
 有时候必须在用户空间和内核空间进行数据拷贝，此时需要使用写时复制COW技术
 # tee函数
 在两个管道文件描述符之间移动数据
+linux scode c++环境配置
+https://www.cnblogs.com/ange-plus-plus/p/11647648.html
+https://www.cnblogs.com/chencarl/p/10463392.html
+
 
